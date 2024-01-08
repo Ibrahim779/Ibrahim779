@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 📫 How to reach me **https://www.facebook.com/profile.php?id=100003888679351**
+- 📫 How to reach me via WhatsApp **https://wa.me/01097398758**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Ibrahim63546202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ibrahim63546202" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ibrahim-ismail-28b768190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-ismail-28b768190" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100003888679351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ibrahim Ismail" height="30" width="40" /></a>
+<a href="https://wa.me/01097398758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Ibrahim Ismail" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCJNRE82ehK6ARRwBV02PPqQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ibrahim Ismail" height="30" width="40" /></a>
 </p>
 
